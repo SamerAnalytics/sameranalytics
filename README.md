@@ -32,6 +32,3 @@ Contact Me
 
 
 
-## Retail Project (Spreadsheet)
-
-**WIP** (Work In Progress)
