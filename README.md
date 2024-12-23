@@ -29,3 +29,9 @@ How to Stay Updated
 Contact Me
 
     Email: samerdaryan@gmail.com
+
+
+
+## Retail Project (Spreadsheet)
+
+**WIP** (Work In Progress)
