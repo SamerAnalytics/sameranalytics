@@ -1,4 +1,4 @@
-SamerAnalytics - Data Analysis Portfolio
+## SamerAnalytics - Data Analysis Portfolio
 
 Welcome to my portfolio! This repository serves as a collection of my ongoing work in data analysis. Although I am in the process of building out projects, I aim to demonstrate my skills in data analysis, problem-solving, and data-driven decision-making using tools like Python, SQL, R, and Google Sheets.
 About Me
@@ -12,7 +12,7 @@ Skills
     Database Management: MySQL, PostgreSQL, Google BigQuery
     Tools: Git, GitHub, Excel, Jupyter Notebooks, VS Code
 
-Upcoming Projects
+## Upcoming Projects
 
 I am currently working on building the following projects to showcase my skills:
 
@@ -26,7 +26,7 @@ How to Stay Updated
     Follow this repository to track my progress on projects.
     Feel free to reach out with any questions or potential collaboration opportunities.
 
-Contact Me
+## Contact Me
 
     Email: samerdaryan@gmail.com
 
