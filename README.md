@@ -28,6 +28,6 @@ How to Stay Updated
 
 ## Contact Me
 
-[Emai](mailto:samerdaryan@gmail.com)
+[Email me](mailto:samerdaryan@gmail.com)
 
 
