@@ -106,3 +106,22 @@ This analysis reveals how **discounts impact sales** across different categories
 This table provides valuable insights into the pricing and discount strategies for each product category. It helps businesses understand whether offering discounts boosts sales and identifies the optimal discount percentage for maximizing revenue. By analyzing this data, companies can refine their discount strategies to increase sales and profitability.
 
 
+![image](https://github.com/user-attachments/assets/0f66ff78-15c3-45d3-b593-3b0623078655)
+
+### Pivot Table: Total Sales by Year
+
+This pivot table summarizes the **Total Sales** for each year in the dataset. Analyzing sales by year helps identify trends and patterns over time, allowing businesses to assess performance and make data-driven decisions.
+
+Here are the key insights from this analysis:
+
+- **2009** had the highest sales, totaling **$4,013,659.73**.
+- **2010** followed with **$3,379,388.68**, showing a decrease in sales compared to the previous year.
+- **2011** saw a further decline in sales, amounting to **$3,262,760.29**.
+- **2012** experienced a slight recovery, with **$3,537,775.06** in total sales.
+
+The **Grand Total** for all years is **$14,193,583.76**, which represents the overall sales across all four years.
+
+This analysis highlights a downward trend in sales from 2009 to 2011, followed by a modest recovery in 2012. This trend could be useful for identifying seasonal effects, market conditions, or external factors that influenced sales during this period.
+
+**Why it’s useful**:  
+By analyzing **Total Sales by Year**, businesses can track their sales performance and identify periods of growth or decline. This insight is valuable for making strategic decisions regarding marketing, inventory, and future planning.
