@@ -192,9 +192,8 @@ This analysis can help identify patterns that businesses can leverage to optimiz
 
 The **Average Order Value (AOV)** is calculated by dividing the total sales by the number of unique orders. To calculate the number of unique orders, I used the `COUNTUNIQUE` formula on the **Order ID** column, which gives the number of distinct orders. The formula for AOV is:
 
-\[
-\text{Average Order Value} = \frac{\text{Total Sales}}{\text{Unique Orders}} = \frac{14,193,583.76}{5,498} \approx 2,578.67
-\]
+**Average Order Value (AOV) = Total Sales / Unique Orders**  
+**AOV = 14,193,583.76 / 5,498 ≈ 2,578.67**
 
 Thus, the **Average Order Value (AOV)** across all orders is approximately **$2,578.67**.
 
@@ -202,15 +201,15 @@ Thus, the **Average Order Value (AOV)** across all orders is approximately **$2,
 
 To calculate the **Orders per Customer**, I again used the `COUNTUNIQUE` formula, but this time on the **Customer Name** column to determine the number of unique customers. Using the formula:
 
-\[
-\text{Orders per Customer} = \frac{\text{Unique Orders}}{\text{Unique Customers}} = \frac{5,498}{797} \approx 6.9
-\]
+**Orders per Customer = Unique Orders / Unique Customers**  
+**Orders per Customer = 5,498 / 797 ≈ 6.9**
 
 This means, on average, each customer places approximately **6.9 orders**.
 
 ### Conclusion
 
 By using the `COUNTUNIQUE` formula, I was able to efficiently calculate the number of unique **Order IDs** and **Customer Names**, which were crucial for the **Order Analysis**. These metrics provide valuable insights into customer purchasing behavior and order frequency, which can help inform business strategies such as targeted marketing and inventory management.
+
 
 
 
