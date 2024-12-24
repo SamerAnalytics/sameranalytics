@@ -16,3 +16,21 @@ As I continue to work on this project, I will be updating my progress regularly 
 This screenshot provides a snapshot of the data I’m working with, though some columns (such as Product Subcategory, Product Name, Product Container, Product Base Margin, and Ship Date) are not visible here. These columns will be explored in more detail in later stages of the analysis.
 
 Before diving into the analysis, I applied a filter to ensure the data was clean and consistent. This involved removing duplicates, ensuring case sensitivity, and validating the integrity of the dataset. With the data now properly cleaned, we can proceed with the analysis.
+
+
+
+![image](https://github.com/user-attachments/assets/0b75156a-29c1-4e0e-a738-672b0ac7942f)
+
+### Pivot Table: Total Sales by Product Category
+
+In this pivot table, I’ve grouped the data by **Product Category** and calculated the **SUM of Total Sales** for each category. This analysis provides a clear overview of how sales are distributed across different product categories.
+
+Here are the key insights from the pivot table:
+
+- **Technology** had the highest total sales, amounting to **$5,693,015.06**.
+- **Furniture** generated **$4,933,871.76** in total sales.
+- **Office Supplies** contributed **$3,566,696.94** to the total sales.
+
+The **Grand Total** sales amount to **$14,193,583.76**, which represents the overall revenue generated from all product categories in the dataset.
+
+This pivot table helps us understand the performance of each product category, identifying the top-performing categories and the areas where the business has seen the most sales.
