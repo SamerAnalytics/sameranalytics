@@ -34,3 +34,27 @@ Here are the key insights from the pivot table:
 The **Grand Total** sales amount to **$14,193,583.76**, which represents the overall revenue generated from all product categories in the dataset.
 
 This pivot table helps us understand the performance of each product category, identifying the top-performing categories and the areas where the business has seen the most sales.
+
+
+
+![image](https://github.com/user-attachments/assets/6dce94c1-2646-4f2e-b255-ba0d86c4404c)
+
+
+### Pivot Table: Total Sales by Product Subcategory
+
+In this pivot table, I’ve grouped the data by **Product Subcategory** and calculated the **SUM of Total Sales** for each subcategory. This allows for a more detailed breakdown of sales within the broader product categories.
+
+Here are the key insights from the pivot table:
+
+- **Office Machines** had the highest total sales, amounting to **$2,063,925.38**.
+- **Tables** followed closely behind, generating **$1,802,418.27** in total sales.
+- **Chairs & Chairmats** contributed **$1,677,969.10** to the total sales, making it one of the top-performing subcategories.
+
+On the lower end, **Rubber Bands** had the smallest sales, with only **$14,268.83** in total sales.
+
+The **Grand Total** sales amount to **$14,193,583.76**, which represents the overall revenue generated from all product subcategories.
+
+This pivot table provides a granular view of how sales are distributed among individual product subcategories, helping to pinpoint high-performing products and identify areas where sales may be lower.
+
+**Why it’s useful**:  
+By breaking down sales at the subcategory level, this analysis helps businesses understand which specific products are driving revenue and which may need further attention in terms of marketing or inventory. It also helps in forecasting demand for individual products.
