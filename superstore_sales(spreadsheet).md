@@ -84,3 +84,25 @@ This pivot table highlights the importance of not just focusing on sales but als
 
 **Why it’s useful**:  
 This analysis helps businesses identify which product categories are more profitable and which ones may be consuming more resources, despite having high sales. By focusing on profitability, companies can make more informed decisions about pricing, marketing, and inventory strategies.
+
+
+![image](https://github.com/user-attachments/assets/23be4121-0bc9-4ff5-bdf8-0d74f0a5e3aa)
+
+### Pivot Table: Total Sales by Product Category and Discount
+
+In this pivot table, I’ve broken down **Total Sales** by **Product Category** and **Discount Percentage**. The table provides insight into how sales vary across different discount levels for each category, helping us understand the impact of discounts on total sales.
+
+Here are the key insights:
+
+- **Furniture** shows a consistent pattern, with the highest sales observed at a **0% discount** (**$463,595.36**), and sales decrease as the discount percentage increases, with a slight increase at higher discounts (e.g., **5%** and **6%**).
+- **Office Supplies** also shows high sales at the **0% discount** (**$318,660.00**) but has noticeable fluctuations at higher discount levels. Interestingly, **3%** and **2%** discounts seem to yield the best sales results for this category.
+- **Technology** demonstrates the highest sales overall, with the **0% discount** leading to **$711,492.85** in total sales. Similar to Furniture, higher discounts seem to decrease sales, but there are some anomalies, such as higher sales at **6%** and **5%** discounts.
+
+The **Grand Total** for all product categories is **$14,193,583.76**, showing the overall sales across all discount levels.
+
+This analysis reveals how **discounts impact sales** across different categories. It’s essential to note that while **0% discount** typically results in the highest sales, offering a moderate discount (e.g., **3%-5%**) can sometimes lead to increased sales in certain categories, such as **Technology** and **Furniture**.
+
+**Why it’s useful**:  
+This table provides valuable insights into the pricing and discount strategies for each product category. It helps businesses understand whether offering discounts boosts sales and identifies the optimal discount percentage for maximizing revenue. By analyzing this data, companies can refine their discount strategies to increase sales and profitability.
+
+
