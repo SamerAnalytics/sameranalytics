@@ -125,3 +125,29 @@ This analysis highlights a downward trend in sales from 2009 to 2011, followed b
 
 **Why it’s useful**:  
 By analyzing **Total Sales by Year**, businesses can track their sales performance and identify periods of growth or decline. This insight is valuable for making strategic decisions regarding marketing, inventory, and future planning.
+
+
+![image](https://github.com/user-attachments/assets/81becacd-2f5d-438c-8791-d467ab1edfe5)
+
+
+### Pivot Table: Total Sales by Region
+
+This pivot table provides a breakdown of **Total Sales** across different **regions**. Analyzing sales by region allows businesses to understand regional performance and identify areas of strength or weakness in their sales strategy.
+
+Here are the key insights from this analysis:
+
+- **West** region has the highest sales, totaling **$3,425,334.18**, which is a significant portion of the total sales.
+- **Ontario** follows closely with **$2,922,364.13** in sales, showing strong performance in this region.
+- **Prairie** region contributes **$2,689,118.51** in sales, which is also a notable amount.
+- **Atlantic** region accounts for **$1,919,898.24**, making it the fourth highest region by sales.
+- **Quebec** and **Northwest Territories** have lower sales of **$1,432,930.96** and **$763,823.31**, respectively.
+- **Yukon** and **Nunavut** show the lowest sales, with totals of **$929,822.69** and **$110,291.74**, respectively.
+
+The **Grand Total** for all regions is **$14,193,583.76**, which represents the total sales across all regions.
+
+This analysis reveals that the **West** and **Ontario** regions dominate in terms of sales, while regions like **Nunavut** and **Yukon** have considerably lower sales. This information can help businesses allocate resources, tailor marketing strategies, and focus on high-performing regions.
+
+**Why it’s useful**:  
+By analyzing **Total Sales by Region**, businesses can identify which regions are performing well and which may need further attention. This insight can guide regional sales strategies, marketing campaigns, and even expansion efforts in areas with lower sales.
+
+
