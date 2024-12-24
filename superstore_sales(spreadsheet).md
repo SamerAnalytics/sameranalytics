@@ -12,3 +12,7 @@ Welcome to my Superstore Sales Data Analysis project! In this project, I will sh
 As I continue to work on this project, I will be updating my progress regularly and showcasing new techniques and analyses that I apply to this dataset.
 
 ![image](https://github.com/user-attachments/assets/113995fe-3e21-4c7f-9067-519dc465a341)
+
+This screenshot provides a snapshot of the data I’m working with, though some columns (such as Product Subcategory, Product Name, Product Container, Product Base Margin, and Ship Date) are not visible here. These columns will be explored in more detail in later stages of the analysis.
+
+Before diving into the analysis, I applied a filter to ensure the data was clean and consistent. This involved removing duplicates, ensuring case sensitivity, and validating the integrity of the dataset. With the data now properly cleaned, we can proceed with the analysis.
