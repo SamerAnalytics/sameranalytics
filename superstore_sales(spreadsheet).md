@@ -106,7 +106,8 @@ This analysis reveals how **discounts impact sales** across different categories
 This table provides valuable insights into the pricing and discount strategies for each product category. It helps businesses understand whether offering discounts boosts sales and identifies the optimal discount percentage for maximizing revenue. By analyzing this data, companies can refine their discount strategies to increase sales and profitability.
 
 
-![image](https://github.com/user-attachments/assets/0f66ff78-15c3-45d3-b593-3b0623078655)
+![image](https://github.com/user-attachments/assets/13344b26-8a2e-4c39-a934-8549ffaa99de)
+
 
 ### Pivot Table: Total Sales by Year
 
@@ -127,7 +128,8 @@ This analysis highlights a downward trend in sales from 2009 to 2011, followed b
 By analyzing **Total Sales by Year**, businesses can track their sales performance and identify periods of growth or decline. This insight is valuable for making strategic decisions regarding marketing, inventory, and future planning.
 
 
-![image](https://github.com/user-attachments/assets/81becacd-2f5d-438c-8791-d467ab1edfe5)
+![image](https://github.com/user-attachments/assets/5ae40e2e-4cd5-4301-935d-73e4a5ad772d)
+
 
 
 ### Pivot Table: Total Sales by Region
@@ -164,3 +166,18 @@ In this analysis, customers were segmented into four categories: **Consumer**, *
 - **Small Business** customers generate substantial sales, but the profit margins are relatively smaller compared to the other segments.
 
 By analyzing these segments, businesses can tailor their marketing and sales strategies to target the most profitable customer groups.
+
+
+![image](https://github.com/user-attachments/assets/a685c222-ab99-4d7b-8da3-bd0ada86b157)
+
+### Monthly Sales and Profit Analysis
+
+This analysis examines the **Total Sales** and **Profit** for each month across all years in the dataset. The data reveals trends in sales performance and profitability on a month-to-month basis.
+
+### Key Insights:
+- **Highest Sales:** The month with the highest total sales is **June** ($1.34M), followed by **March** ($1.27M). These months saw significant contributions from the Superstore's sales efforts.
+- **Highest Profit:** **March** also saw the highest profit ($185.3K), showing strong profitability during this month, followed by **June** ($180.8K).
+- **Lowest Performance:** The **December** month reported the lowest profit ($70.4K), though total sales were still strong at $1.14M.
+- **Seasonal Trends:** The sales performance shows steady growth throughout the year, with a slight dip in **December**, possibly indicating seasonal fluctuations or year-end discounting.
+
+This analysis can help identify patterns that businesses can leverage to optimize sales strategies across different times of the year.
