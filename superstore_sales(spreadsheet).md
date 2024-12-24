@@ -10,8 +10,7 @@ Welcome to my Superstore Sales Data Analysis project! In this project, I will sh
 - **Advanced Spreadsheet Functions**: Demonstrating my proficiency with functions like `VLOOKUP`, `SUMIFS`, conditional formatting, and data validation to make the analysis more efficient and insightful.
 
 As I continue to work on this project, I will be updating my progress regularly and showcasing new techniques and analyses that I apply to this dataset.
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8304d106-8326-4c24-a52f-36417ff1a6b3" width="45%" />
-  <img src="https://github.com/user-attachments/assets/ac146db0-dd0c-4123-8325-ffc0b5fa51a3" width="45%" />
+  <img src="https://github.com/user-attachments/assets/ac146db0-dd0c-4123-8325-ffc0b5fa51a3" width="35%" />
 </p>
