@@ -58,3 +58,29 @@ This pivot table provides a granular view of how sales are distributed among ind
 
 **Why it’s useful**:  
 By breaking down sales at the subcategory level, this analysis helps businesses understand which specific products are driving revenue and which may need further attention in terms of marketing or inventory. It also helps in forecasting demand for individual products.
+
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/871770c6-bafa-4aec-87be-a37bd7e05126)
+
+
+
+### Pivot Table: Total Profit by Product Category
+
+In this pivot table, I’ve grouped the data by **Product Category** and calculated the **SUM of Profit** for each category. This analysis helps in understanding the profitability of each product category, even when total sales might not tell the full story.
+
+Here are the key insights from the pivot table:
+
+- **Technology** had the highest total profit, amounting to **$886,313.52**.
+- **Office Supplies** generated **$518,021.46** in profit, despite having lower total sales than **Furniture**.
+- **Furniture** had a total profit of **$117,432.99**, which is significantly lower than **Office Supplies** and **Technology**, even though its total sales were higher.
+
+The **Grand Total** profit amounts to **$1,521,767.96**, which represents the overall profit generated from all product categories in the dataset.
+
+This pivot table highlights the importance of not just focusing on sales but also analyzing the **profitability** of different product categories. It demonstrates that higher sales do not always correlate with higher profits, as profit margins and cost structures can vary across categories.
+
+**Why it’s useful**:  
+This analysis helps businesses identify which product categories are more profitable and which ones may be consuming more resources, despite having high sales. By focusing on profitability, companies can make more informed decisions about pricing, marketing, and inventory strategies.
