@@ -151,3 +151,16 @@ This analysis reveals that the **West** and **Ontario** regions dominate in term
 By analyzing **Total Sales by Region**, businesses can identify which regions are performing well and which may need further attention. This insight can guide regional sales strategies, marketing campaigns, and even expansion efforts in areas with lower sales.
 
 
+![image](https://github.com/user-attachments/assets/6c9f8ef9-20ea-4065-ab5a-6dd764593503)
+
+
+### Customer Segmentation Analysis
+
+In this analysis, customers were segmented into four categories: **Consumer**, **Corporate**, **Home Office**, and **Small Business**. The total sales and profit for each segment were calculated to identify the most profitable customer groups.
+
+### Key Insights:
+- **Corporate** customers are the highest contributors to both **Total Sales** ($5.22M) and **Profit** ($599.7K), showing that larger business accounts are the primary revenue and profit drivers for the Superstore.
+- The **Home Office** and **Consumer** segments contribute significant sales, with **Home Office** having a higher profit margin despite slightly lower sales.
+- **Small Business** customers generate substantial sales, but the profit margins are relatively smaller compared to the other segments.
+
+By analyzing these segments, businesses can tailor their marketing and sales strategies to target the most profitable customer groups.
