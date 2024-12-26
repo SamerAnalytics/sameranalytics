@@ -212,4 +212,40 @@ By using the `COUNTUNIQUE` formula, I was able to efficiently calculate the numb
 
 
 
+# Visualization Analysis
+
+![Sales_profit VS product category](https://github.com/user-attachments/assets/574f9f49-4da2-426b-81ce-9d63a55daf2b)
+
+
+**Key Observations:**
+
+*   **Technology Leads in Both Sales and Profit:** The Technology category clearly demonstrates the highest performance in both sales and profit. This suggests a strong market demand and effective pricing strategies for technology products.
+*   **Furniture Generates High Sales but Low Profit:** While the Furniture category has substantial sales, comparable to Technology, its profit is significantly lower. This indicates potential issues with profitability within this category, possibly due to higher costs, lower margins, or higher return rates.
+*   **Office Supplies Shows Moderate Performance:** The Office Supplies category maintains a moderate level of both sales and profit, positioning itself between Technology and Furniture in terms of overall performance.
+
+**Comparison to Pivot Table Analysis:**
+
+This visualization complements the previous pivot table analysis by providing a clear visual representation of the data. While the pivot tables presented the numerical values, this chart facilitates a quicker and more intuitive understanding of the relative performance of each category. Specifically:
+
+*   The chart visually emphasizes the stark contrast in profitability between Furniture and the other two categories, a key insight also highlighted in the profit pivot table.
+*   The chart reinforces the pivot table's finding that Technology is the top performer in both sales and profit.
+*   The visualization makes it immediately clear that while Furniture has high sales, it has a significantly lower profit than Office Supplies, a point that required more careful examination in the pivot tables.
+
+**Insights:**
+
+*   The significant difference between sales and profit in the Furniture category warrants further investigation. Potential contributing factors include:
+    *   **High Shipping Costs:** Furniture is often bulky and expensive to ship, impacting profit margins.
+    *   **Competitive Pricing:** The furniture market may be highly competitive, forcing lower prices and reducing profit margins.
+    *   **Discounts and Promotions:** Frequent promotional activities could be cutting into profits.
+*   The high profitability of the Technology category suggests effective cost management, strong pricing strategies, or a favorable product mix.
+
+**Recommendations:**
+
+*   **Investigate Furniture Profitability:** A detailed cost analysis of the Furniture category is recommended to identify areas for improvement. This should include analysis of shipping costs, pricing strategies, and product mix.
+*   **Maintain Focus on Technology:** Given its strong performance, continued investment and focus on the Technology category are advisable.
+*   **Explore Opportunities for Office Supplies:** While performing adequately, opportunities to optimize costs or increase sales in the Office Supplies category should be explored.
+
+**Conclusion:**
+
+This visualization effectively communicates the sales and profit performance across product categories, confirming and visually reinforcing insights derived from the pivot table analysis. The stark contrast in profitability within the Furniture category highlights a key area for further investigation and potential improvement. The combined use of pivot tables and visualizations provides a more comprehensive understanding of the data, leading to more informed business decisions.
 
