@@ -12,7 +12,7 @@ I replaced any `NULL` values in the **Confirmed**, **Recovered**, and **Deaths**
 UPDATE "Covid 19" SET "Confirmed" = 0 WHERE "Confirmed" IS NULL;
 UPDATE "Covid 19" SET "Recovered" = 0 WHERE "Recovered" IS NULL;
 UPDATE "Covid 19" SET "Deaths" = 0 WHERE "Deaths" IS NULL;
-
+ 
 
 ## 2. Checking for Negative Values
 
