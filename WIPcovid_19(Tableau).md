@@ -12,7 +12,7 @@ I replaced any `NULL` values in the **Confirmed**, **Recovered**, and **Deaths**
 UPDATE "Covid 19" SET "Confirmed" = 0 WHERE "Confirmed" IS NULL;
 UPDATE "Covid 19" SET "Recovered" = 0 WHERE "Recovered" IS NULL;
 UPDATE "Covid 19" SET "Deaths" = 0 WHERE "Deaths" IS NULL;
- 
+ ```
 
 ## 2. Checking for Negative Values
 
@@ -20,7 +20,10 @@ I ensured that there were no negative values in the **Confirmed**, **Recovered**
 
 **SQL Query:**
 ```sql
-SELECT * FROM "Covid 19" WHERE "Confirmed" < 0 OR "Recovered" < 0 OR "Deaths" < 0;
+SELECT *
+FROM "Covid 19"
+WHERE "Confirmed" < 0 OR "Recovered" < 0 OR "Deaths" < 0;
+```
 No negative values were found, so the data was clean in this regard.
 
 ## 3. Handling Duplicates
@@ -33,6 +36,7 @@ SELECT "Date", "Country/Region", "Province/State", COUNT(*)
 FROM "Covid 19" 
 GROUP BY "Date", "Country/Region", "Province/State"
 HAVING COUNT(*) > 1;
+```
 
 
 ## Visualizations and Insights
