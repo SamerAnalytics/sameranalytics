@@ -150,3 +150,41 @@ To gain deeper insights, further analysis could be conducted:
 By analyzing and understanding these trends, individuals can make informed career decisions and organizations can gain insights into the labor market and compensation strategies.
 
 
+![image](https://github.com/user-attachments/assets/c80c3f28-ec49-49b2-9d01-9caed6072f40)
+
+
+## Job Satisfaction Across Job Roles
+
+This bar chart visualizes the average job satisfaction scores across different job roles within an organization. The color gradient of each bar represents the employee count within each role, with darker shades indicating a higher number of employees.
+
+**Key Observations:**
+
+* **Overall Job Satisfaction:** The chart shows a moderate level of job satisfaction across most roles, with scores generally ranging between 2.5 and 2.8 on a presumed scale (likely 1-5).
+
+* **Highest Satisfaction:** Healthcare Representatives and Research Scientists appear to have the highest average job satisfaction scores.
+
+* **Lowest Satisfaction:** Human Resources personnel seem to have the lowest average job satisfaction score.
+
+* **Employee Count Impact:** 
+    - Roles with higher employee counts, such as **Sales Executive** and **Research Scientists**, tend to have a darker color gradient, indicating a larger number of employees compared to roles like **Human Resources**.
+    - It's important to note that higher employee count does not necessarily correlate with lower satisfaction in this case. 
+
+**Possible Interpretations:**
+
+* **Role-Specific Factors:** The variations in job satisfaction across roles may be influenced by factors such as job responsibilities, work environment, compensation, opportunities for growth, and work-life balance.
+
+* **Employee Engagement:** Higher levels of job satisfaction may be associated with increased employee engagement, productivity, and retention.
+
+* **Focus Areas:** The lower satisfaction scores for certain roles (e.g., Human Resources) suggest areas for improvement in terms of employee experience and engagement.
+
+**Further Analysis:**
+
+To gain deeper insights into the drivers of job satisfaction, further analysis could be conducted:
+
+* **Segmenting the data:** Examining job satisfaction scores within each role by factors such as tenure, department, or location.
+* **Identifying root causes:** Conducting employee surveys or focus groups to identify specific reasons for lower satisfaction in certain roles.
+* **Implementing interventions:** Developing and implementing strategies to improve job satisfaction, such as targeted training programs, performance recognition initiatives, or improvements in work-life balance policies.
+
+By analyzing and addressing the factors influencing job satisfaction, the organization can create a more positive and fulfilling work environment for its employees.
+
+
