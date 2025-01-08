@@ -112,3 +112,41 @@ To gain deeper insights into the drivers of attrition, further analysis could be
 * **Trend analysis:** Tracking attrition rates over time to identify any trends or patterns. 
 
 By conducting further analysis and taking appropriate actions, the organization can strive to improve employee retention and reduce the impact of attrition on its overall performance.
+
+
+
+
+![image](https://github.com/user-attachments/assets/9a33058d-59b0-474a-b391-7935f36af3c5)
+
+
+## Analysis of Average Monthly Income by Education Level and Field of Study
+
+This table visualizes the average monthly income across different education levels (1-5) and fields of study. The color gradient indicates the level of income, with darker shades representing higher average incomes.
+
+**Key Observations:**
+
+* **Impact of Education:** In general, higher education levels tend to be associated with higher average monthly incomes. This is evident across most fields of study, with some exceptions.
+
+* **Field of Study Variation:** The average monthly income varies significantly across different fields of study, even within the same education level. For instance, at the highest education level (5), Life Sciences and Medical fields show notably higher average incomes compared to other fields.
+
+* **Specific Observations:** 
+    - **Education Level 4:** In this level, Human Resources stands out with a significantly higher average income compared to other fields.
+    - **Education Level 5:** Life Sciences and Medical fields demonstrate the highest average incomes, while Human Resources shows a lower average income.
+
+**Possible Interpretations:**
+
+* **Field-Specific Demand:** The variation in income across fields likely reflects differences in market demand, skill requirements, and career opportunities within each field.
+* **Education Premium:** The positive correlation between education level and income suggests that higher education generally leads to better earning potential.
+* **Field-Specific Factors:** Factors such as experience, industry trends, and individual skills can further influence income within each field and education level.
+
+**Further Analysis:**
+
+To gain deeper insights, further analysis could be conducted:
+
+* **Segmenting the data:** Examining income variations within each field by factors such as experience, gender, or location.
+* **Trend analysis:** Tracking income trends over time to identify changes in income patterns across different fields and education levels.
+* **Identifying factors:** Analyzing data to identify specific factors that contribute to higher or lower incomes within each field.
+
+By analyzing and understanding these trends, individuals can make informed career decisions and organizations can gain insights into the labor market and compensation strategies.
+
+
