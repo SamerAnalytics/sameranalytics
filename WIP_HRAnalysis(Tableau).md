@@ -87,3 +87,28 @@ This bar chart visually represents the gender distribution of employees within t
 
 * The chart reveals a significant gender imbalance, with a higher proportion of male employees (889) compared to female employees (591).
 * This visualization provides a clear and concise overview of the gender composition of the workforce.
+
+
+
+![image](https://github.com/user-attachments/assets/8f9dcca8-a463-4372-b277-81e53d44dcbe)
+
+
+## Analysis of Attrition Rate by Employee Count
+
+This pie chart visualizes the attrition rate within the organization, highlighting the proportion of employees who have left (Yes) versus those who remain (No). The data reveals that a significant majority of employees, represented by the larger green slice, have not left the organization. However, the red slice indicates that a notable number of employees have experienced attrition. 
+
+**Key Insights:**
+
+* **Attrition Rate:** The pie chart provides a clear visual representation of the overall attrition rate within the organization. 
+* **Employee Count Distribution:** The relative sizes of the slices show the distribution of employees between those who have left and those who remain.
+* **Focus Area:** The larger red slice emphasizes the need for further analysis and potential interventions to address the factors contributing to employee attrition. 
+
+**Further Analysis:**
+
+To gain deeper insights into the drivers of attrition, further analysis could be conducted. This might involve:
+
+* **Segmenting the data:** Examining attrition rates across different departments, job roles, tenure levels, or other relevant dimensions.
+* **Identifying risk factors:** Analyzing data to identify factors associated with higher attrition rates, such as employee engagement scores, compensation levels, or performance reviews.
+* **Trend analysis:** Tracking attrition rates over time to identify any trends or patterns. 
+
+By conducting further analysis and taking appropriate actions, the organization can strive to improve employee retention and reduce the impact of attrition on its overall performance.
