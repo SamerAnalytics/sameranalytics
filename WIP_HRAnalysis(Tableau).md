@@ -188,3 +188,36 @@ To gain deeper insights into the drivers of job satisfaction, further analysis c
 By analyzing and addressing the factors influencing job satisfaction, the organization can create a more positive and fulfilling work environment for its employees.
 
 
+
+![image](https://github.com/user-attachments/assets/da20e028-e5d2-4baa-b48b-dea4ae3780ac)
+
+## Work-Life Balance vs. Job Involvement: Employee Distribution
+
+**Analysis:**
+
+This area chart illustrates the distribution of employees across different levels of job involvement and work-life balance. The x-axis represents job involvement, ranging from 1 to 4, while the y-axis indicates the employee count. The color gradient represents the work-life balance score, with 1 being the lowest and 4 being the highest.
+
+**Key Observations:**
+
+1. **Peak at Job Involvement 3:** The chart reveals a significant concentration of employees at job involvement level 3, regardless of their work-life balance score. This suggests that a considerable portion of the workforce is highly engaged in their work.
+
+2. **Work-Life Balance Impact:**
+    - **Lower Work-Life Balance (1, 2):** Employees with lower work-life balance scores are more likely to be concentrated at higher job involvement levels (3 and 4). This could indicate that individuals with lower work-life balance may be more dedicated to their work, potentially at the expense of their personal life.
+    - **Higher Work-Life Balance (3, 4):** As work-life balance improves, the distribution of employees across job involvement levels becomes more balanced. This suggests that employees with a better work-life balance may have more flexibility in their level of engagement.
+
+3. **Employee Count Variation:** The chart also shows a significant variation in employee count across different combinations of job involvement and work-life balance. For instance, there is a considerably higher number of employees with high job involvement and low work-life balance compared to those with low job involvement and high work-life balance.
+
+**Possible Interpretations:**
+
+* The concentration of employees at high job involvement levels might indicate a positive work environment that fosters engagement. However, the association with lower work-life balance scores raises concerns about potential burnout and employee well-being.
+* The findings suggest that improving work-life balance could potentially lead to a more balanced distribution of employees across different levels of job involvement, fostering a healthier and more sustainable work environment.
+
+**Further Analysis:**
+
+* Investigating the factors contributing to low work-life balance among highly engaged employees could provide valuable insights for improving employee well-being and retention.
+* Analyzing the impact of work-life balance interventions on employee engagement and productivity could help organizations optimize their work environment.
+
+**Note:**
+
+* This analysis is based on the visual representation of the data. A deeper understanding would require access to the raw data and further statistical analysis.
+
